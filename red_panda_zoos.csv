@@ -1,0 +1,110 @@
+_id,en.name,en.address,en.location,map,website,latitude,longitude
+-98,Buenos Aires Eco-Park,"República de la India, C1425 CABA, Argentina","Buenos Aires, Argentina",https://goo.gl/maps/LtEhMY2XMbJ2,http://www.buenosaires.gob.ar/ecoparque,-34.5781333,-58.4853221
+-51,Calgary Zoo,"210 St. George's Drive NE, Calgary, AB T2E 7V6, Canada","Calgary, Alberta, Canada",https://goo.gl/maps/gXaumYRHucJ2,https://www.calgaryzoo.com/,51.0459038,-114.0258625
+-68,Safari Niagra,"2821 Stevensville Rd, Stevensville, ON L0S 1S0, Canada","Fort Erie, Ontario, Canada",https://goo.gl/maps/PkYjqGk5rX22,https://safariniagara.com/,42.9523118,-79.057585
+-76,Assiniboine Park Zoo,"2595 Roblin Blvd, Winnipeg, MB R3R 2N7, Canada","Winnipeg, Manitoba, Canada",https://goo.gl/maps/yA6s5Fk3SZx,http://www.assiniboineparkzoo.ca/,49.8683326,-97.3106535
+-82,Edmonton Valley Zoo,"13315 Buena Vista Road & 87th Avenue, Edmonton, AB T5J 2R7, Canada","Edmonton, Alberta, Canada",https://goo.gl/maps/34HUM7tYy542,https://www.edmonton.ca/attractions_events/edmonton-valley-zoo.aspx,53.5130356,-113.5674656
+-86,Greater Vancouver Zoo,"5048 264 St, Aldergrove, BC V4W 1N7, Canada","Vancouver, British Columbia, Canada",https://goo.gl/maps/TxXkYjME52C2,https://gvzoo.com/,49.1238474,-122.8687328
+-94,Granby Zoo,"1050 Boulevard David-Bouchard N, Granby, QC J2H 0Y6, Canada","Granby, Quebec, Canada",https://goo.gl/maps/E9eNEDvNPj72,https://zoodegranby.com/,45.4197484,-72.7230226
+-96,Toronto Zoo,"2000 Meadowvale Rd, Toronto, ON M1B 5K7, Canada","Toronto, Ontario, Canada",https://goo.gl/maps/65RpCZ7DA5T2,http://www.torontozoo.com/,43.8125009,-79.2037486
+-106,Saskatoon Forestry Farm Park & Zoo,"1903 Forestry Farm Park Dr, Saskatoon, SK S7S 1G9, Canada","Saskatoon, Saskatchewan, Canada",https://goo.gl/maps/1YnG95vKmtj,https://www.saskatoon.ca/parks-recreation-attractions/events-attractions/saskatoon-forestry-farm-park-zoo,52.1584862,-106.6062401
+-56,Chilean National Zoo,"Providencia, Santiago Metropolitan Region, Chile","Santiago, Chile",https://goo.gl/maps/CtRXBeoUgYF2,http://www.parquemet.cl/,-33.4298427,-70.704131
+-5,Chonquing Zoo,"Chongqing Zoo, Jiulongpo Qu, China, 400080",Jiulongpo Qu,https://goo.gl/maps/rsck5UV8B552,http://www.cqzoo.com,29.503557,106.5037493
+-39,Shanghai Zoo,"No. 2368 Hongqiao Road, Changning District, Shanghai","Changning District, Shanghai",https://goo.gl/maps/XGNrUzCRqB42,http://www.shanghaizoo.cn/,31.1902231,121.3590564
+-1,Ichikawa Zoological & Botanical Gardens,"Ichikawa City Zoo, Japan, 〒272-0801 Chiba Prefecture, Ichikawa, 大町284番１ 外","Ichikawa, Chiba Prefecture",https://goo.gl/maps/WSyNu7HFhH42,http://www.city.ichikawa.lg.jp/zoo/index.html,35.7642063,139.9638014
+-2,Kyoto City Zoo,"Okazaki Hoshojicho, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8333, Japan","Kyoto City, Kyoto Prefecture, Sakyo Ward",https://goo.gl/maps/BzPvCJ64eiB2,http://www5.city.kyoto.jp/zoo/,35.0126853,135.7839226
+-3,Nagasaki Bio Park,"2291-1 Seihicho Nakayamago, Saikai, Nagasaki Prefecture 851-3302, Japan",Nagasaki Prefecture,https://goo.gl/maps/L1wXjRmYYeo,http://www.biopark.co.jp,32.988408,129.7810003
+-4,Yumemigasaki Zoological Park,"1 Chome-2-1 Minamikase, Saiwai-ku, Kawasaki-shi, Kanagawa-ken 212-0055, Japan","Kawasaki, Kanagawa Prefecture",https://goo.gl/maps/kfMhVjS52Gs,http://www.city.kawasaki.jp/saiwai/page/0000045037.html,35.5495511,139.6631391
+-6,Tokuyama Zoo,"5846 Tokuyama, Shunan, Yamaguchi Prefecture 745-0851, Japan","Shūnan, Yamaguchi Prefecture",https://goo.gl/maps/bMAGo54PQxq,http://www.city.shunan.lg.jp/site/zoo/,34.0623441,131.8139387
+-7,Sapporo Maruyama Zoo,"Japan, 〒064-0959 Hokkaido, Sapporo, Chuo Ward, 宮ケ丘3番地１","Sapporo, Hokkaido",https://goo.gl/maps/EY3uZRXNWNr,http://www.city.sapporo.jp/zoo/index.html,43.0514641,141.3056561
+-8,Chiba Zoological Park,"280番地 Minamotocho, Wakaba Ward, Chiba, Chiba Prefecture 264-0037, Japan",Chiba,https://goo.gl/maps/14c7BwdSTkr,https://www.city.chiba.jp/zoo/,35.6451063,140.1243959
+-9,Saitama Children's Zoo,"554 Iwadono, Higashimatsuyama, Saitama Prefecture 355-0065, Japan","Highashimatsuyama, Saitama",https://goo.gl/maps/C8F9LtGktcH2,http://www.parks.or.jp/sczoo/,35.9993587,139.3728133
+-10,Nagano Chausuyama Zoo,"570-1 Shinonoiutabi, Nagano, Nagano Prefecture 388-8016, Japan","Nagano, Nagano Prefecture",https://goo.gl/maps/3sQ2w9qjTdS2,http://www.chausuyama.com/,36.5867283,138.1132733
+-11,Kushiro City Zoo,"Japan, 〒085-0201 Hokkaido, Kushiro, 阿寒町下仁々志別11","Kushiro, Kushiro Subprefecture, Hokkaido",https://goo.gl/maps/8JVH1ftPJHm,http://www.city.kushiro.lg.jp/zoo/,43.0812619,144.2343677
+-12,"Yokohama Zoo ""Zoorasia""","Japan, 〒241-0001 Kanagawa Prefecture, 横浜市旭区上白根町１１７５−１","Yokohama, Kanagawa Prefecture",https://goo.gl/maps/j23gm6VW4Zo,http://www.hama-midorinokyokai.or.jp/zoo/zoorasia/,35.4948688,139.5243211
+-13,Nishiyama Zoo,"3-8-9 Sakuramachi, Sabae, Fukui Prefecture 916-0027, Japan","Sabae, Fukui Prefecture",https://goo.gl/maps/vVxLDci5HeE2,https://www.city.sabae.fukui.jp/nishiyama_zoo/,35.9506249,136.1787345
+-14,Himeji Central Park,"１４３４ Toyotomicho Kodani, Himeji, Hyōgo Prefecture 679-2121, Japan","Himeji, Hyōgo Prefecture",https://goo.gl/maps/QLH8LsUtgm42,http://www.central-park.co.jp/,34.8710334,134.7621733
+-15,Ikeda Zoo,"Japan, 〒700-0015 Okayama Prefecture, Okayama, Kita, 京山２丁目５番１号","Okayama, Okayama Prefecture, Chugoku region",https://goo.gl/maps/2bjmzYUBiqk,http://www.urban.ne.jp/home/ikedazoo/,34.6746507,133.9040114
+-16,Shizuoka Municipal Nihondaira Zoo,"1767−６ Ikeda, Suruga Ward, Shizuoka, Shizuoka Prefecture 422-8005, Japan","Shizuoka, Shizuoka Prefecture",https://goo.gl/maps/wFRiaNci3Qu,http://www.nhdzoo.jp/,34.9796519,138.4373118
+-17,Tama Zoological Park,"7 Chome-1-1 Hodokubo, Hino, Tokyo 191-0041, Japan","Hino, Tokyo",https://goo.gl/maps/Emr9wdQYAm22,http://www.tokyo-zoo.net/zoo/tama/,35.6495222,139.4000674
+-18,Tobu Zoo,"Japan, 〒345-0831 Saitama Prefecture, Minamisaitama District, Miyashiro, 須賀１１０","Miyashiro, Minamisaitama, Saitama Prefecture",https://goo.gl/maps/74vbDPHR5DK2,http://www.tobuzoo.com/park/,36.0196909,139.7174791
+-19,Kujukushima Zoological and Botanical Garden Morikirara,"2172 Funakoshicho, Sasebo, Nagasaki Prefecture 857-1231, Japan","Sasebo, Nagasaki Prefecture",https://goo.gl/maps/1pRgFW9fo9v,https://www.morikirara.jp/,33.1512305,129.6873023
+-20,Hirakawa Zoo,"5669-1 Hirakawacho, Kagoshima, Kagoshima Prefecture 891-0133, Japan","Kagoshima, Kagoshima Prefecture",https://goo.gl/maps/RHkCy9Syv8G2,http://hirakawazoo.jp/,31.4630427,130.4997487
+-21,Omuta City Zoo,"163 Showamachi, Omuta, Fukuoka Prefecture 836-0871, Japan","Omuta, Fukuoka Prefecture",https://goo.gl/maps/LwmybsWdhww,http://www.omutazoo.org/,33.019018,130.4423493
+-22,Osaka Tennōji Zoo,"Japan, 〒543-0063 Osaka Prefecture, 大阪市天王寺区茶臼山町１−１０８","Tennōji-ku, Osaka",https://goo.gl/maps/jgQy9DYiBJJ2,http://www.city.osaka.lg.jp/contents/wdu170/tennojizoo/,34.6505304,135.5062635
+-23,Fuji Safari Park,"Japan, 〒410-1231 Shizuoka Prefecture, Susono, Suyama, 字藤原2255−27","Susuno, Shizuoka Prefecture",https://goo.gl/maps/PLj4TTrSWVN2,https://www.fujisafari.co.jp/,35.2587801,138.8076475
+-24,Hamamatsu Municipal Zoo,"Japan, 〒431-1209 Shizuoka Prefecture, 浜松市西区 舘山寺町１９９","Hamamatsu, Shizuoka Prefecture",https://goo.gl/maps/oXmmXnkH1h52,http://www.hamazoo.net/,34.7658483,137.6301835
+-25,Hitachi Kamine Zoo,"5 Chome-2-22 Miyatacho, Hitachi, Ibaraki Prefecture 317-0055, Japan","Hitachi, Ibaraki Prefecture",https://goo.gl/maps/tBaGy6Ap8DP2,http://www.city.hitachi.lg.jp/zoo/,36.6067412,140.6559983
+-26,"Akita Oomoriyama Zoo ""Milve""","字潟端-154 Hamada, Akita, Akita Prefecture 010-1654, Japan","Akita City, Akita Prefecture",https://goo.gl/maps/6xoxQ1KCS3Q2,https://www.city.akita.lg.jp/zoo/,39.671723,140.0741066
+-27,Mishima Rakujuen Park,"19-３ Ichibancho, Mishima, Shizuoka Prefecture 411-0036, Japan","Mishima, Shizuoka Prefecture",https://goo.gl/maps/y26QhbPcexm,https://www.city.mishima.shizuoka.jp/rakujyu/,35.1248786,138.9087188
+-28,Yuki Zoo,"Japan, 〒400-0865 Yamanashi Prefecture, Kofu, 太田町10番1号","Kōfu City, Yamanashi Prefecture",https://goo.gl/maps/qpxjKiF6SCu,https://www.city.kofu.yamanashi.jp/zoo/,35.6513653,138.5694874
+-29,Wakayama Adventure World,"２３９９ Katata, Shirahama, Nishimuro District, Wakayama Prefecture 649-2201, Japan","Shirahama, Wakayama Prefecture",https://goo.gl/maps/Z2vDjBgTPAG2,http://www.aws-s.com/,33.6678459,135.3738168
+-30,Miyazaki City Phoenix Zoo,"Japan, 〒880-0122 Miyazaki Prefecture, Miyazaki, 塩路浜山3083-42","Miyazaki City, Miyazaki Prefecture",https://goo.gl/maps/Gm2Rjx3mpP72,http://www.miyazaki-city-zoo.jp/index.html,31.9828945,131.4739183
+-31,Ishikawa Zoo,"600 Tokusanmachi, Nomi, Ishikawa Prefecture 923-1222, Japan","Nomi, Ishikawa",https://goo.gl/maps/45d7ga53bG62,http://www.ishikawazoo.jp/,36.4337633,136.5435233
+-32,Fukuoka Municipal Zoo and Botanical Garden,"Japan, 〒810-0037 Fukuoka-ken, Fukuoka-shi, Chūō-ku, Minamikōen, 1−１","Chuo-ku, Fukuoka City, Fukuoka Prefecture",https://goo.gl/maps/XZZzwgWnAUq,http://zoo.city.fukuoka.lg.jp/,33.5812228,130.3829501
+-33,Ichihara Elephant Kingdom,"Japan, 〒290-0521 Chiba Prefecture, Ichihara, Yamakogawa, ９３７","Ichihara, Chiba Prefecture",https://goo.gl/maps/t6TwYSxU2dT2,http://www.zounokuni.com/,35.3547971,140.1801333
+-34,Tohoku Safari Park,"1 Sawamatsukura, Nihonmatsu-shi, Fukushima-ken 964-0088, Japan","Nihonmatsu, Fukushima Prefecture",https://goo.gl/maps/TQwcwc8PpyL2,http://tohoku-safaripark.co.jp/,37.6410782,140.3484296
+-35,Tokushima Zoo,"Nyudo-２２−１ Shibunocho, Tokushima, Tokushima Prefecture 771-4267, Japan","Tokushima City, Tokushima Prefecture",https://goo.gl/maps/d7LpHftgkFq,http://www.city.tokushima.tokushima.jp/zoo/,34.0137524,134.5191863
+-36,Kobe Oji Zoo,"Japan, 〒657-0838 Hyōgo Prefecture, Kobe, Nada Ward, Ojicho, 3 Chome−１","Nada Ward, Kobe",https://goo.gl/maps/8P5cFSjECns,http://www.kobe-ojizoo.jp/,34.710002,135.2126901
+-37,Asahiyama Zoo,"Japan, 〒078-8205 Hokkaido, 旭川市東旭川町倉沼","Asahikawa, Hokkaido",https://goo.gl/maps/pRRcmyyfEUF2,http://www.city.asahikawa.hokkaido.jp/asahiyamazoo/,43.7684289,142.4778913
+-38,Nogeyama Zoo,"63-10 Oimatsucho, Nishi Ward, Yokohama, Kanagawa Prefecture 220-0032, Japan","Nishi Ward, Yokohama",https://goo.gl/maps/TbqkYpePr5P2,http://www.hama-midorinokyokai.or.jp/zoo/nogeyama/,35.4472864,139.6205233
+-40,Hiroshima City Asa Zoological Park,"Asacho Oaza Dobutsuen, Asakita Ward, Hiroshima, Hiroshima Prefecture 731-3355, Japan",Hiroshima,https://goo.gl/maps/6RKGqYpdxew,http://www.asazoo.jp/,34.4982738,132.4386406
+-41,Itozu no Mori Zoological Park,"4 Chome-1-8 Kamiitozu, Kokurakita Ward, Kitakyushu, Fukuoka Prefecture 803-0845, Japan","Kitakyushu, Fukuoka Prefecture",https://goo.gl/maps/a4z75hLhZ692,http://www.itozu-zoo.jp/,33.8738674,130.8444053
+-42,Akiyoshidai Safari Land,"1212 Mitōchōaka, Mine-shi, Yamaguchi-ken 754-0302, Japan","Mine, Yamaguchi Prefecture",https://goo.gl/maps/UT1Be9m6ukw,http://www.safariland.jp/,34.2683467,131.3007106
+-45,Selcohome Zoo Paradise Yagiyama,"1 Chome-43 Yagiyamahoncho, Taihaku Ward, Sendai, Miyagi Prefecture 982-0801, Japan","Taihaku Ward, Sendai, Miyagi Prefecture",https://goo.gl/maps/S4dSPcsEcH62,http://www.city.sendai.jp/zoo/index.html,38.245601,140.8446113
+-46,Tobe Zoo,"240 上原町 砥部町 伊予郡 Ehime Prefecture 791-2191, Japan","Tobe, Ehime Prefecture, Shikoku",https://goo.gl/maps/AiYMttHQEdA2,https://www.tobezoo.com/,35.9885019,134.5754522
+-50,Misaki Park,"Tannowa, Misaki, Sennan District, Osaka Prefecture 599-0301, Japan","Misaki Town, Osaka Prefecture",https://goo.gl/maps/13D4TFarwv12,http://www.nankai.co.jp/misaki/,34.3274484,135.1593043
+-52,Hirakata Park,"1-1 枚方公園町 Hirakata, Osaka Prefecture 573-0054, Japan","Hirakata, Osaka Prefecture",https://goo.gl/maps/Uz15oJH5U7U2,http://www.hirakatapark.co.jp/,34.8082596,135.6374833
+-53,Nasu Animal Kingdom,"1042-1 Oshima, Nasu, Nasu District, Tochigi Prefecture 329-3223, Japan","Nasu District, Tochigi Prefecture",https://goo.gl/maps/32qL3cSPkwP2,http://www.nasu-oukoku.com/,37.1290293,140.0349543
+-54,Ueno Zoological Gardens,"9-83 Uenokoen, Taitō, Tokyo 110-0007, Japan","Taitō, Tokyo",https://goo.gl/maps/o6BBZkWDuv32,http://www.tokyo-zoo.net/zoo/ueno/,35.7164578,139.769129
+-57,Gunma Safari Park,"Japan, 〒370-2321 Gunma Prefecture, 富岡市岡本１",Gunma Prefecture,https://goo.gl/maps/at8sz15RscJ2,http://www.safari.co.jp/,36.227195,138.8849445
+-58,Kobe Animal Kingdom,"Japan, 〒650-0047 Hyōgo Prefecture, 神戸市中央区港島南町７丁目１−９","Port Island, Chūō-ku, Kobe, Japan",https://goo.gl/maps/eD1oUBUky182,https://www.kobe-oukoku.com/,34.654646,135.2203581
+-59,Atagawa Tropical & Alligator Garden,"1253-10 Naramoto, Higashiizu, Kamo District, Shizuoka Prefecture 413-0302, Japan","Higashiizu-cho, Kamo, Shizuoka Prefecture, Japan",https://goo.gl/maps/H7nX1JM8hAv,http://bananawani.jp/,34.8161636,139.0656855
+-60,Noichi Zoological Park of Kochi Prefecture,"738 大谷 野市町 Konan, Kōchi Prefecture 781-5233, Japan","Konan, Kōchi Prefecture, Japan",https://goo.gl/maps/4p2bfiBPbGL2,http://www.noichizoo.or.jp/,33.5700558,133.7052225
+-61,Fukuchiyama Zoo,"377-1 Izaki, Fukuchiyama, Kyoto Prefecture 620-0017, Japan","Fukuchiyama, Japan",https://goo.gl/maps/XZvhpftc9L72,http://www.sandanike-kouen.or.jp/zoo.php,35.3101894,135.1364023
+-63,Toyama Municipal Family Park Zoo,"２５４ Furusawa, Toyama, Toyama Prefecture 930-0151, Japan","Toyama, Toyama Prefecture, Japan",https://goo.gl/maps/v3zCNrq2igs,http://www.toyama-familypark.jp/,36.6909023,137.1460493
+-64,Tokyo Toritsu Oshima Park,"2 泉津字福重 Oshima, Tokyo 100-0103, Japan","Ōshima, Tokyo, Japan",https://goo.gl/maps/ygjtnJ59iXw,http://www.soumu.metro.tokyo.jp/11osima/park/www/htdocs/parkindex.html,34.7607382,139.4311267
+-69,Hamura Zoo,"4122番地 Hane, Hamura-shi, Tōkyō-to 205-0012, Japan","Hamura, Tokyo, Japan",https://goo.gl/maps/EwC6VTy9MEp,http://www.t-net.ne.jp/~hamura-z/,35.7673958,139.3266258
+-70,Himeji Municipal Zoo,"68 Honmachi, Himeji-shi, Hyogo Prefecture. ZIP:670-0012","Himeji, Hyōgo Prefecture",https://goo.gl/maps/Em6HbHWwLHC2,http://www.city.himeji.lg.jp/dobutuen/,34.8372111,134.6921642
+-73,Edogawa City Natural Zoo,"3 Chome-2-１ Kitakasai, Edogawa-ku, Tōkyō-to 134-0081, Japan","Edogawa, Tokyo Prefecture, Japan",https://goo.gl/maps/tDgbZr73HuQ2,http://edogawa-kankyozaidan.jp/zoo/,35.6710531,139.8562134
+-74,Urawa Children's Zoo,"Osaki, Midori-ku, Saitama, Saitama Prefecture 336-0974, Japan","Saitama, Saitama Prefecture, Japan",https://goo.gl/maps/g6ZCMfTFdrw,http://www.city.saitama.jp/004/001/003/001/p002130.html,35.8867828,139.701668
+-79,Nasu World Monkey Park,"６１４６ Takakuko, Nasu, Nasu District, Tochigi Prefecture 325-0001, Japan","Nasu, Tochigi Prefecture, Japan",https://goo.gl/maps/wXxiP9TZrQG2,http://www.nasumonkey.com/,37.0353086,140.0307087
+-62,Everland Zoological Gardens,"199 Everland-ro, Pogog-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, South Korea","Yongin City, Gyeonggi Province, South Korea",https://goo.gl/maps/e4tvYMRSY7z,http://www.everland.com/,37.2939146,127.2003777
+-78,Seoul Zoo,"Makgye-dong, Gwacheon-si, Gyeonggi-do, South Korea","Gyeonggi-do, South Korea",https://goo.gl/maps/HU9yotcVBXQ2,http://grandpark.seoul.go.kr,37.4215021,127.017742
+-66,Chapultepec Zoo,"Col. San Miguel Chapultepec, 11850 Delegación Miguel Hidalgo, CDMX, Mexico","Mexico City, Mexico",https://goo.gl/maps/FcdpEYXAYB12,http://data.sedema.cdmx.gob.mx/zoo_chapultepec/,19.4232135,-99.1917143
+-71,Aqua Zoo Friesland,"De Groene Ster 2, 8926 XE Leeuwarden, Netherlands","Leeuwarden, Friesland Province, Netherlands",https://goo.gl/maps/ZzXQeezpAo52,https://www.aquazoo.nl/,53.2151734,5.8807795
+-72,Rotterdam Zoo,"Blijdorplaan 8, 3041 JG Rotterdam, Netherlands","Rotterdam, Netherlands",https://goo.gl/maps/yFbttoQZrP82,https://www.diergaardeblijdorp.nl/,51.9281613,4.4418373
+-55,Taipei Zoo,"No. 30, Section 2, Xinguang Road, Wenshan District, Taipei City, Taiwan 116","Taipei City, Taiwan",https://goo.gl/maps/9vr6Usew49x,https://www.zoo.gov.taipei/Default.aspx,24.9971631,121.5829622
+-100,Khao Kheow Open Zoo,"235 หมู่ที่ 7 Tambon Bang Phra, Amphoe Si Racha, Chang Wat Chon Buri 20110, Thailand","Si Racha, Chon Buri, Thailand",https://goo.gl/maps/QRi8XP3ynNU2,http://www.khaokheow.zoothailand.org/,13.2148627,100.9866786
+-43,Columbus Zoo and Aquarium,"4850 W Powell Rd, Powell, OH 43065","Powell, Liberty Township, Delaware County, Ohio, USA",https://goo.gl/maps/CWVYiPe7c3S2,https://www.columbuszoo.org/,40.156083,-83.1204929
+-44,Northeastern Wisconsin Zoo,"4378 Reforestation Rd, Green Bay, WI 54313","Green Bay, Wisconsin, USA",https://goo.gl/maps/Wi6pMXofB6w,https://newzoo.org,44.6603441,-88.0915213
+-47,Happy Hollow Park & Zoo,"748 Story Rd, San Jose, CA 95112 USA","San Jose, CA, USA",https://goo.gl/maps/pXaxYuZQwYH2,http://www.hhpz.org/,37.325749,-121.8635721
+-48,Bronx Zoo,"2300 Southern Blvd, Bronx, NY 10460","Bronx, NY, USA",https://goo.gl/maps/YZZd8WbFQrA2,https://bronxzoo.com/,40.8505989,-73.8791869
+-49,National Zoological Park,"3001 Connecticut Ave NW, Washington, DC 20008","Washington, DC, USA",https://goo.gl/maps/g8NQQHL5Qqw,https://nationalzoo.si.edu/,38.9296198,-77.0519731
+-65,Cincinnati Zoo and Botanical Garden,"3400 Vine St, Cincinnati, OH 45220","Cincinnati, OH, USA",https://goo.gl/maps/N3XtwSMHnx22,https://nationalzoo.si.edu/,39.1445771,-84.5108057
+-67,Woodland Park Zoo,"5500 Phinney Ave N, Seattle, WA 98103","Seattle, WA, USA",https://goo.gl/maps/4WtXGc1ZGnp,https://www.zoo.org/,47.6681079,-122.3526429
+-75,Central Park Zoo,"E 64th St, New York, NY 10021","New York City, NY, USA",https://goo.gl/maps/Jj2bHyYZhZ92,https://centralparkzoo.com/,40.767782,-73.9740222
+-77,Henry Vilas Zoo,"702 S Randall Ave, Madison, WI 53715","Madison, Wisconsin, USA",https://goo.gl/maps/eNq2cY1kKNu,http://www.vilaszoo.org/,43.0606143,-89.4122236
+-80,Lincoln Children's Zoo,"1222 S 27th St, Lincoln, NE 68502","Lincoln, NE, USA",https://goo.gl/maps/5kHk6aS6A2R2,https://www.lincolnzoo.org/,40.8005726,-96.6795449
+-81,Philadelphia Zoo,"3400 W Girard Ave, Philadelphia, PA 19104","Philadelphia, Pennsylvania, USA",https://goo.gl/maps/wE2icXwnpcN2,https://www.philadelphiazoo.org/,39.9734158,-75.2334743
+-83,Red River Zoo,"4255 23rd Ave S, Fargo, ND 58104","Fargo, North Dakota, USA",https://goo.gl/maps/iDn5ZuFrH4U2,https://redriverzoo.org/,46.8457505,-96.8582848
+-84,Prospect Park Zoo,"450 Flatbush Ave, Brooklyn, NY 11225","Brooklyn, NY, USA",https://goo.gl/maps/7JRYsikRmTz,https://prospectparkzoo.com/,40.676838,-73.9870309
+-85,Zoo Atlanta,"800 Cherokee Avenue SE, Atlanta, GA 30315","Atlanta, GA, USA",https://goo.gl/maps/bD7ZfqdL6D22,https://zooatlanta.org/,33.7337421,-84.3873637
+-87,Lincoln Park Zoo,"2001 N Clark St, Chicago, IL 60614","Chicago, Illinois, USA",https://goo.gl/maps/HadVPFE1zaq,https://www.lpzoo.org/,41.9211024,-87.6509837
+-88,Houston Zoo,"6200 Hermann Park Dr, Houston, TX 77030","Houston, Texas, USA",https://goo.gl/maps/LKkAW38D8Pz,https://www.houstonzoo.org/,29.7226492,-95.3884739
+-89,Binghamton Zoo at Ross Park,"60 Morgan Rd, Binghamton, NY 13903","Binghamton, NY, USA",https://goo.gl/maps/BoeUeTysCJy,https://rossparkzoo.com/,42.0875777,-75.9133327
+-90,Nashville Zoo at Grassmere,"3777 Nolensville Pike, Nashville, TN 37211","Nashville, Tennesesee",https://goo.gl/maps/6KdEKAFz5Sy,https://www.nashvillezoo.org/,36.0917091,-86.738922
+-91,Pittsburgh Zoo and PPG Aquarium,"7370 Baker St, Pittsburgh, PA 15206","Pittsburgh, Pennsylvania, USA",https://goo.gl/maps/wKD5UXtTWh42,https://www.pittsburghzoo.org/,40.4878388,-79.9294974
+-92,Utica Zoo,"1 Utica Zoo Way, Utica, NY 13501","Utica, New York, USA",https://goo.gl/maps/DHsMpakdJA42,http://www.uticazoo.org/,43.0890819,-75.2772741
+-93,Milwaukee County Zoo,"10001 W Bluemound Rd, Milwaukee, WI 53226","Milwaukee, Wisconsin, USA",https://goo.gl/maps/pagD2rWWvY12,http://www.milwaukeezoo.org/,43.026838,-88.0504021
+-95,San Diego Zoo,"2920 Zoo Dr, San Diego, CA 92101","San Diego, California, USA",https://goo.gl/maps/GMmgWVbWDn82,https://zoo.sandiegozoo.org/,32.7353209,-117.1665609
+-97,Roger Williams Park Zoo,"1000 Elmwood Ave, Providence, RI 02907","Providence, Rhode Island, USA",https://goo.gl/maps/5Nw7c3CJH4r,http://www.rwpzoo.org/,41.7903783,-71.4235683
+-99,Greensboro Science Center,"4301 Lawndale Dr, Greensboro, NC 27455","Greensboro, North Carolina, USA",https://goo.gl/maps/8Ecg8V5hWMz,http://www.greensboroscience.org/,36.1298984,-79.8691369
+-101,Minnesota Zoological Garden,"13000 Zoo Blvd, Apple Valley, MN 55124","Apple Valley, Minnesota, USA",https://goo.gl/maps/ZdJu1mLMXFu,http://www.mnzoo.org/,44.7678109,-93.2054319
+-102,Tulsa Zoo,"6421 E 36th St N, Tulsa, OK 74115","Tulsa, Oklahoma, USA",https://goo.gl/maps/5SaB25cXkwQ2,https://tulsazoo.org/,36.2112664,-95.9462436
+-103,Staten Island Zoo,"614 Broadway, Staten Island, NY 10310","Staten Island, NY, USA",https://goo.gl/maps/1C5zcVNgMV72,http://www.statenislandzoo.org/,40.6233661,-74.1232649
+-104,Potawatomi Zoo,"500 S Greenlawn Ave, South Bend, IN 46615","South Bend, Indiana, USA",https://goo.gl/maps/Kn5Ao11FJ5Q2,https://www.potawatomizoo.org/,41.6695218,-86.2270148
+-105,Binder Park Zoo,"7400 Division Dr, Battle Creek, MI 49014","Battle Creek, Michigan, USA",https://goo.gl/maps/KNY2H8TL7a52,https://binderparkzoo.org/,42.2903965,-85.1575119
+-107,Cleveland Metroparks Zoo,"3900 Wildlife Way, Cleveland, OH 44109","Cleveland, Ohio, USA",https://goo.gl/maps/H1Beh6XdftG2,https://www.clevelandmetroparks.com/zoo,41.4499591,-81.7133054
+-108,Zoo Knoxville,"3500 Knoxville Zoo Dr, Knoxville, TN 37914","Knoxville, Tennessee, USA",https://goo.gl/maps/vnLPRS8bNrK2,https://www.zooknoxville.org/,35.9984181,-83.8940029
+-109,Memphis Zoo,"2000 Prentiss Pl, Memphis, TN 38112","Memphis, Tennessee, USA",https://goo.gl/maps/nQy82rrLbm32,https://memphiszoo.org/,35.1500677,-90.0118466
